@@ -14,7 +14,7 @@ description: >
 #    Jekyll & Plugins     #
 # ----------------------- #
 
-# Build settings
+# Build setting
 markdown: kramdown
 permalink: pretty
 
