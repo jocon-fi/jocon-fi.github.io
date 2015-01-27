@@ -1,8 +1,0 @@
----
-layout: default
-img: phones.png
-category: Services
-title: Contact details
-description: |
-  <p class="lead">Email: info@jocon.fi <br> Tel: +358 50 3872952</p>
----
