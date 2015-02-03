@@ -4,5 +4,5 @@ img: whitepix.png
 category: Services
 title: What we do
 description: |
-  <p class="lead">IT consultancy with 15 years of experience in global telecoms and internet companies on wide array of CRM, Sales & Marketing, Care and B2B projects and solutions. Specializing in mobile messaging and project management.<br><br>Unlock the magic - Contact us to discuss more about your business needs.<br><br>Email: info@jocon.fi<br>Tel: +358 50 3872952<br><br><br><img src="../img/services/yrittajatbanner.png" align="right"></p>
+  <p class="lead">IT consultancy with 15 years of experience in global telecoms and internet companies on wide array of CRM, Sales & Marketing, Care and B2B projects and solutions. Specializing in mobile messaging and project management.<br><br>Unlock the magic - Contact us to discuss more about your business needs.<br><br>Email: info@jocon.fi<br>Tel: +358 50 3872952<br><br><br><img src="../img/services/yrittajatbanner.png" align="left"></p>
 ---
